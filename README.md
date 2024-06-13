@@ -16,6 +16,8 @@ Introducing my latest contribution: a Question & Answer Voice/Chat-Bot built usi
 
 **🔍 Intelligent Search:** Utilizes **FAISS** for efficient vector search, ensuring quick and relevant responses.
 
+📸 Explore the **Snapshots** below to discover the application in action and experience the user interface and features!
+
 
 
 
@@ -34,4 +36,3 @@ Introducing my latest contribution: a Question & Answer Voice/Chat-Bot built usi
 ## **03- Updated interface of Tosief's Voice/Chat-Bot application, displaying processed questions and answers from the uploaded PDF**
 ### **In this image, the interface shows the PDF File Processor with a successfully uploaded and processed PDF. The right side of the interface displays the chat area where the user has asked questions about the content of the PDF, and the chatbot has provided answers. This demonstrates the application's capability to extract and respond to user queries based on the uploaded PDF content in real-time.**
 ![Updated interface of Tosief's Voice/Chat-Bot application, displaying processed questions and answers from the uploaded PDF](Screenshots/3.png)
-
