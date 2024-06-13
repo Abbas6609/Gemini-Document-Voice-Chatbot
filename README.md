@@ -1,20 +1,20 @@
 **🚀 Gemini-Document-Voice-Chatbot! 🚀**
 
-**Introducing my latest contribution: a Question & Answer Voice/Chat-Bot built using Streamlit, LangChain, and Google Generative AI. This application allows users to explore PDFs and interactively let you query their content via text and voice inputs. It's designed to streamline information retrieval and make document interaction more intuitive and efficient.**
+Introducing my latest contribution: a Question & Answer Voice/Chat-Bot built using Streamlit, LangChain, and Google Generative AI. This application allows users to explore PDFs and interactively let you query their content via text and voice inputs. It's designed to streamline information retrieval and make document interaction more intuitive and efficient.
 
 
 
 **🌟 Key Features:**
 
-**📄 PDF Upload and Processing: Easily upload and process PDFs for querying.**
+**📄 PDF Upload and Processing:** Easily upload and process **PDFs** for querying.
 
-**🗣️ Voice and Text Interaction: Ask questions via voice or text and get detailed responses.**
+**🗣️ Voice and Text Interaction:** **Ask questions** via **voice or text** and get detailed responses.
 
-**💬 Interactive Chat Interface: Enjoy a seamless conversation with dynamic message styling.**
+**💬 Interactive Chat Interface:** Enjoy a **seamless conversation** with dynamic message styling.
 
-**🌐 Powered by Google Generative AI: inspired by advanced AI models for accurate and context-aware answers.**
+**🌐 Powered by Google Generative AI:** Inspired by advanced **AI models** for accurate and context-aware answers.
 
-**🔍 Intelligent Search: Utilizes FAISS for efficient vector search, ensuring quick and relevant responses.**
+**🔍 Intelligent Search:** Utilizes **FAISS** for efficient vector search, ensuring quick and relevant responses.
 
 
 
