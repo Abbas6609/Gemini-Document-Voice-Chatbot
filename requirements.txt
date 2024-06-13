@@ -1,0 +1,12 @@
+streamlit
+langchain
+PyPDF2
+python-dotenv
+speechrecognition
+pyttsx3
+htmlTemplates
+faiss-cpu
+google-cloud
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
